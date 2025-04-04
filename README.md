@@ -6,10 +6,11 @@ Therefore, this project is system for finding empty spaces when users park.
 Especially, it provides convenience in parking for tourists.
 
 </br>
+
 ## 📌 Purpose & Hypothesis
 #### ☑️ Affording the recommendation system for finding a empty space to park.
 
-#### Hypothesis : The closer it is to tourist destination, the less room there is in the parking lot.
+### Hypothesis : The closer it is to tourist destination, the less room there is in the parking lot.
 
 - Case 1: If user's destination is a tourist spot...
           🔹 Recommended parking lot within 1.5km radius of destination.
@@ -21,6 +22,7 @@ Especially, it provides convenience in parking for tourists.
 
 
 </br>
+
 ##  📌 Methods
 - Calculate the distance between destination and parking lot using Haversine formula
 
