@@ -26,13 +26,14 @@ Especially, it provides convenience in parking for tourists.
 <img src ='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc4II0A%2FbtsM9ZfBwSs%2Fip13SmkEITipTooyHUKbk1%2Fimg.png'>
 
 
-## Results
-#### Result of Case 1
+## 📌 Results
+
+### ☑️ Result of Case 1
 <img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdxKe35%2FbtsNbdp0Kzb%2F2sNoVUkK5tvb8Y67DQMxF1%2Fimg.png'>
 
 
 
-#### Result of Case 2
+### ☑️ Result of Case 2
 <img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnZRZY%2FbtsNaiTnEcY%2F7nX24srKJAa0kGHTb7QGkk%2Fimg.png'>
 
   
