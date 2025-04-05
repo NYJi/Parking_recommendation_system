@@ -37,7 +37,7 @@ Especially, it provides convenience in parking for tourists.
 ### ☑️ Result of Case 1
 <img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdxKe35%2FbtsNbdp0Kzb%2F2sNoVUkK5tvb8Y67DQMxF1%2Fimg.png'>
 
-
+</br>
 
 ### ☑️ Result of Case 2
 <img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnZRZY%2FbtsNaiTnEcY%2F7nX24srKJAa0kGHTb7QGkk%2Fimg.png'>
